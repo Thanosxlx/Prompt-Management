@@ -106,7 +106,7 @@ If a macro target is exceeded, append a 🚩 flag next to the exceeded amount.
 2–4 sentences with nutritional analysis, what went well, which targets were missed and brief suggestions.
 
 🔵 ΕΞΑΓΩΓΗ ΔΕΔΟΜΕΝΩΝ
-Create a JSON output according to the template and the rules for the JSON production that follow:
+Always output a JSON in a code block, ready for copy, according to the template and the rules for the JSON production that follow:
 
 ```json
 {
